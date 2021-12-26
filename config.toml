@@ -1,6 +1,6 @@
 baseURL = "https://objective-golick-4b61be.netlify.app/"
 languageCode = "en-us"
-title = "Ink-Free"
+title = "Deep Views"
 theme = "ink-free"
 paginate = 5
 
@@ -12,7 +12,7 @@ copyright = "© Copyright notice"
   posts = "/:year/:month/:title"
 
 [params]
-	subtitle = "Crisp, minimal, privacy-conscious personal [blog theme for Hugo](https://github.com/chollinger93/ink-free)"
+	subtitle = "Collections of my learnings and views on tech, spirituality, travel and life in general"
 
 	# Optional 64x64 avatar image.
 	#avatar = "https://image.freepik.com/free-vector/young-man-head-with-beard-avatar-character_24877-36786.jpg"
