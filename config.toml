@@ -12,7 +12,7 @@ copyright = "© Copyright notice"
   posts = "/:year/:month/:title"
 
 [params]
-	subtitle = "Collections of my learnings and views on tech, spirituality, travel and life in general"
+	subtitle = "Collections of my takes on startup, travel, spirituality, productivity, books and movies"
 
 	# Optional 64x64 avatar image.
 	#avatar = "https://image.freepik.com/free-vector/young-man-head-with-beard-avatar-character_24877-36786.jpg"
