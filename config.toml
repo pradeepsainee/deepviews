@@ -1,4 +1,4 @@
-baseURL = "http://deepviews.in/"
+baseURL = "https://objective-golick-4b61be.netlify.app/"
 languageCode = "en-us"
 title = "Ink-Free"
 theme = "ink-free"
