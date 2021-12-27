@@ -12,7 +12,7 @@ copyright = "© Copyright notice"
   posts = "/:year/:month/:title"
 
 [params]
-  description = "Collection of my takes on startup, travel, spirituality, productivity, books, movies and life in general"
+  description = "My Collection of my takes on startup, travel, spirituality, productivity, books, movies and life in general"
 	subtitle = "My Collection of my takes on startup, travel, spirituality, productivity, books, movies and life in general"
 
   images = ["/images/my-photo.jpg"]
