@@ -6,7 +6,7 @@ tags: [General]
 ---
 
 
-![pradeep]('images/my-photo.jpg')
+![pradeep](/images/my-photo.jpg)
 Hi, Pradeep here. 
 
 This blog is a collection of my experiences, learnings and opinions on range of topics from spirituality, startup, books, movies, poetry, travel and life in general.
