@@ -12,6 +12,7 @@ copyright = "© Copyright notice"
   posts = "/:year/:month/:title"
 
 [params]
+  description="Text about my blog"
 	subtitle = "Collection of my takes on startup, travel, spirituality, productivity, books, movies and life in general"
 
 	# Optional 64x64 avatar image.
