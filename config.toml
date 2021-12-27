@@ -1,4 +1,4 @@
-baseURL = "https://objective-golick-4b61be.netlify.app/"
+baseURL = "https://deepviews.in/"
 languageCode = "en-us"
 title = "Deep Views"
 theme = "ink-free"
@@ -12,7 +12,7 @@ copyright = "© Copyright notice"
   posts = "/:year/:month/:title"
 
 [params]
-  description="Text about my blog"
+  description="Collection of my takes on startup, travel, spirituality, productivity, books, movies and life in general"
 	subtitle = "Collection of my takes on startup, travel, spirituality, productivity, books, movies and life in general"
 
 	# Optional 64x64 avatar image.
