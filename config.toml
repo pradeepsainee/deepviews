@@ -29,7 +29,7 @@ copyright = "© Copyright notice"
   wpm = 250
 
 	# Stupid footers :)
-	footers = [ 
+	#footers = [ 
 		"What Tiger King can teach us about x86 Assembly",
 		"10 Reasons why gcc SHOULD be re-written in JavaScript - You won't believe #8!"
 	]
