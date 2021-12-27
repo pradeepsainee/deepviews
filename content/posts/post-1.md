@@ -1,11 +1,10 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to my blog!"
 date: 2021-12-26T17:51:42+05:30
 draft: false
 ---
----
 
-## What is it about?
+
 
 Hi, Pradeep here. 
 
@@ -22,5 +21,3 @@ I will try to keep entries short so as to not bore you.
 Please keep checking on me from time to time.
 
 Thank You :)
-
-Testing 
