@@ -1,7 +1,7 @@
 ---
 title: "About"
-date: 2019-04-19T21:37:58+05:30
+date: 2021-12-27T21:37:58+05:30
 type: "page"
 ---
 
-This is some static page where you can write about yourself.
+Hi, I am Pradeep Saini. I am a devpreneur, movie-music-book buff. I want to travel.
