@@ -7,6 +7,9 @@ draft: false
 ---
 
 ## What is it about?
+
+Hi, Pradeep here. 
+
 This blog is a collection of my revelations, learnings and opinions on range of topics and passions such as spirituality, tech, books, movies, poetry, travel and life in general.
 
 I will pour my heart here.
